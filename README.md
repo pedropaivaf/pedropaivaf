@@ -1,5 +1,4 @@
 Opa, Sou Pedro Paiva Ferreira 👋
-🔭 Embaixador na Codi Academy.
 📫 Contate-me em pedro.p.ferreira@hotmail.com
 
 <div>
