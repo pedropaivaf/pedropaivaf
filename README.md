@@ -1,5 +1,5 @@
 Opa, Sou Pedro Paiva Ferreira 👋
-📫 Contate-me em pedro.p.ferreira@hotmail.com
+📫 Contate-me em contato.pedropaivaf@outlook.com
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
