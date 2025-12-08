@@ -2,11 +2,13 @@
 
 Desenvolvedor Backend | Node.js, Express, Prisma, PostgreSQL
 
-📫 **Contato:** contato.pedropaivaf@outlook.com
+📧 **Contato:** contato.pedropaivaf@outlook.com
 
 ## 🚀 Tecnologias
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -15,8 +17,8 @@ Desenvolvedor Backend | Node.js, Express, Prisma, PostgreSQL
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropaivaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaivaf&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropaivaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaivaf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
