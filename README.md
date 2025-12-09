@@ -14,10 +14,11 @@ Desenvolvedor Backend | Node.js, Express, Prisma, PostgreSQL
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 💼 Projetos
+## 💼 Projetos ATIVOS
 
 - **Central-MB**: Backend com Node.js, Express, Prisma e PostgreSQL (Supabase + Render)
-- **MB Intranet**: Sistema de gestão empresarial
+- **SmartDoctor pisi**: Sistema com foco na Pisiquiatria (sumúlas personalizadas, pacientes,info de medicamentos..) em TypeScript Prisma e PostgreSQL (Supabase + Render)
+- **SmartBot**: Chat bot com IA integrada que conecta ao whatsapp por QRcode em JS
 
 ## 📫 Conecte-se
 
