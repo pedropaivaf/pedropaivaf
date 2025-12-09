@@ -18,7 +18,7 @@ Desenvolvedor Backend | Node.js, Express, Prisma, PostgreSQL
 
 - **Central-MB**: Backend com Node.js, Express, Prisma e PostgreSQL (Supabase + Render)
 - **SmartDoctor pisi**: Sistema com foco na Pisiquiatria (sumúlas personalizadas, pacientes,info de medicamentos..) em TypeScript Prisma e PostgreSQL (Supabase + Render)
-- **SmartBot**: Chat bot com IA integrada que conecta ao whatsapp por QRcode em JS
+- **SmartBot**: Chat bot com IA integrada que conecta ao whatsapp por QRcode em JS, auth_info_baileys e modelo de IA por meio da integração API HuggingFace (gemini, FALL-BACK -> ministral e Phi-4-mini-instruct)
 
 ## 📫 Conecte-se
 
