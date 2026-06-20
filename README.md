@@ -2,7 +2,7 @@
 
 Desenvolvedor Backend | Node.js, Express, Prisma, PostgreSQL
 
-🌐 **Portfólio:** [pedropaiva.dev](https://pedropaiva.dev)
+🌐 **Portfólio:** [pedropaivaf.dev](https://pedropaivaf.dev)
 📧 **Contato:** contato.pedropaivaf@outlook.com
 
 ## 🚀 Stack's
@@ -28,7 +28,7 @@ Desenvolvedor Backend | Node.js, Express, Prisma, PostgreSQL
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:contato.pedropaivaf@outlook.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pedropaivaf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaivaf)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://pedropaiva.dev)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://pedropaivaf.dev)
 
 ---
 
